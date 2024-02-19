@@ -56,7 +56,6 @@ print(s1[::-1]) # reverse a string using slicing
 
 
 
-
 # # List - mutable - heterogeneous data type - []
 
 # # l1 = [1,1.123, True, "Hello"]
